@@ -1,2 +1,2 @@
-### This is for a sin test for first using git
+### This is for a simple test for first using git
 
